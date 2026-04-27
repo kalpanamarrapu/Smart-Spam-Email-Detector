@@ -95,8 +95,6 @@ spam-detector-pro/
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
-
 ### 🏠 Home Page
 
 ![Home Page]
