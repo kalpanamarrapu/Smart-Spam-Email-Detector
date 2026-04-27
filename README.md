@@ -169,12 +169,10 @@ http://127.0.0.1:5000
 
 Kalpana Kumari Marrapu
 
-Student | Python Developer | Machine Learning Enthusiast
+Student | Machine Learning Enthusiast
 
 
 
 ---
 
-## ⭐ If you like this project
 
-Give it a ⭐ on GitHub!
