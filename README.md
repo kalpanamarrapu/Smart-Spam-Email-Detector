@@ -95,8 +95,8 @@ spam-detector-pro/
 ### 🏠 Home Page
 
 ![Home Page]
-<img width="927" height="688" alt="image" src="https://github.com/user-attachments/assets/29c18a31-e2e5-419a-94c5-aa676a237b5d" />
 <img width="921" height="825" alt="image" src="https://github.com/user-attachments/assets/edd7aebc-cdd9-47d5-b65d-d00ca9da619a" />
+<img width="927" height="688" alt="image" src="https://github.com/user-attachments/assets/29c18a31-e2e5-419a-94c5-aa676a237b5d" />
 
 
 ---
