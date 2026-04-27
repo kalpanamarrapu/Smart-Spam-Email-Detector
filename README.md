@@ -36,6 +36,7 @@ This project uses **Natural Language Processing (NLP)** and **Machine Learning**
 * Scikit-learn
 * Pandas
 * NumPy
+* SQLite
 
 ### 🎨 Frontend
 
