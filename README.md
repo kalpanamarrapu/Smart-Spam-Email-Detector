@@ -57,21 +57,25 @@ This project uses **Natural Language Processing (NLP)** and **Machine Learning**
 
 ## 📂 Project Structure
 
+
 ```
 spam-detector-pro/
 │
 ├── app.py
-├── requirements.txt
-├── runtime.txt
-├── Procfile
+├── spam_detector.py
+├── spam_model.pkl
+├── vectorizer.pkl
+├── spam.csv
+├── spam.db
 │
 ├── templates/
 │       └── index.html
 │
 ├── static/
 │
-├── spam_model.pkl
-├── spam.csv
+├── requirements.txt
+├── runtime.txt
+├── Procfile
 │
 └── README.md
 ```
